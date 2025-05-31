@@ -14,7 +14,7 @@ path = "lib.rs"
 atspi-connection = "*"
 atspi-proxies = "*"
 atspi = { version = "0.25.0", features = ["atspi-connection", "atspi-proxies", "tokio", "zbus"]  }
-tokio = { version = "1.44.1", features = ["full"] }
+tokio = { version = "1.44.2", features = ["full"] }
 tokio-stream = "*"
 zbus = { version = "5.0.1", default-features = false, features = ["tokio"] }
 anyhow = "1.0.98"
