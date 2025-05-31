@@ -1,0 +1,7 @@
+# SPDX-FileCopyrightText: 2025 2025 Fundament Software SPC <https://fundament.software>
+#
+# SPDX-License-Identifier: Apache-2.0
+
+target/
+result/
+.direnv/
